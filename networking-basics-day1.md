@@ -159,9 +159,5 @@ Default Gateway: 192.168.1.1
 * Difference between Proxy and VPN is key for cloud security roles
 * CIDR and subnetting are essential for networking interviews
 
----
 
-
-
-Do you want me to do that next?
 ```
